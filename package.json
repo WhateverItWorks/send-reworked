@@ -148,7 +148,7 @@
     "helmet": "^7.0.0",
     "mozlog": "^3.0.1",
     "node-fetch": "^2.6.7",
-    "redis": "^3.1.1",
+    "redis": "^4.6.8",
     "redis-mock": "^0.56.3",
     "selenium-standalone": "^6.24.0",
     "ua-parser-js": "^0.7.31"
