@@ -147,7 +147,7 @@
     "express": "^4.17.3",
     "helmet": "^7.0.0",
     "mozlog": "^3.0.1",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^3.3.2",
     "redis": "^4.6.8",
     "redis-mock": "^0.56.3",
     "selenium-standalone": "^9.1.1",
