@@ -139,7 +139,7 @@
     "aws-sdk": "^2.1494.0",
     "body-parser": "^1.20.0",
     "choo": "^7.0.0",
-    "cldr-core": "^35.1.0",
+    "cldr-core": "^44.0.1",
     "configstore": "github:dannycoates/configstore#master",
     "convict": "^6.2.4",
     "convict-format-with-validator": "^6.2.0",
