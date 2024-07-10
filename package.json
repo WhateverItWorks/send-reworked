@@ -150,7 +150,7 @@
     "node-fetch": "^3.3.2",
     "redis": "^4.6.8",
     "redis-mock": "^0.56.3",
-    "selenium-standalone": "^9.1.1",
+    "selenium-standalone": "^9.5.0",
     "ua-parser-js": "^0.7.31"
   },
   "availableLanguages": [
